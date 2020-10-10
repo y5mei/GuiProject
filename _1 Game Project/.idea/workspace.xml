@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectId" id="1iTlWShNCCVdfWHL4lpKTnKxL4F" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MineGame" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MineGame" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="5 4 5" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="279" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602102119426">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="585" y="279" key="#com.intellij.ide.util.TreeClassChooserDialog/43.23.1397.877@43.23.1397.877" timestamp="1602102119426" />
+    <state x="664" y="219" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1602120402250">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state x="664" y="219" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/40.23.1400.877@40.23.1400.877" timestamp="1602120402250" />
+    <state x="666" y="219" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/43.23.1397.877@43.23.1397.877" timestamp="1602104163692" />
+    <state x="336" y="123" width="980" height="677" key="DiffContextDialog" timestamp="1602049238506">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="336" y="123" width="980" height="677" key="DiffContextDialog/43.23.1397.877@43.23.1397.877" timestamp="1602049238506" />
+    <state width="1180" height="247" key="GridCell.Tab.0.bottom" timestamp="1602124931785">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1180" height="247" key="GridCell.Tab.0.bottom/41.23.1399.877@41.23.1399.877" timestamp="1602124931785" />
+    <state width="1180" height="247" key="GridCell.Tab.0.bottom/43.23.1397.877@43.23.1397.877" timestamp="1602099121523" />
+    <state width="1180" height="247" key="GridCell.Tab.0.center" timestamp="1602124931784">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1180" height="247" key="GridCell.Tab.0.center/41.23.1399.877@41.23.1399.877" timestamp="1602124931784" />
+    <state width="1180" height="247" key="GridCell.Tab.0.center/43.23.1397.877@43.23.1397.877" timestamp="1602099121522" />
+    <state width="1180" height="247" key="GridCell.Tab.0.left" timestamp="1602124931784">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1180" height="247" key="GridCell.Tab.0.left/41.23.1399.877@41.23.1399.877" timestamp="1602124931784" />
+    <state width="1180" height="247" key="GridCell.Tab.0.left/43.23.1397.877@43.23.1397.877" timestamp="1602099121521" />
+    <state width="1180" height="247" key="GridCell.Tab.0.right" timestamp="1602124931784">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1180" height="247" key="GridCell.Tab.0.right/41.23.1399.877@41.23.1399.877" timestamp="1602124931784" />
+    <state width="1180" height="247" key="GridCell.Tab.0.right/43.23.1397.877@43.23.1397.877" timestamp="1602099121522" />
+    <state x="415" y="39" key="SettingsEditor" timestamp="1602124763825">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="414" y="39" key="SettingsEditor/40.23.1400.877@40.23.1400.877" timestamp="1602120415474" />
+    <state x="415" y="39" key="SettingsEditor/41.23.1399.877@41.23.1399.877" timestamp="1602124763825" />
+    <state x="416" y="39" key="SettingsEditor/43.23.1397.877@43.23.1397.877" timestamp="1602104199077" />
+    <state x="715" y="333" key="classpath-attribute-editor" timestamp="1602102165701">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="715" y="333" key="classpath-attribute-editor/43.23.1397.877@43.23.1397.877" timestamp="1602102165701" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MineGame.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

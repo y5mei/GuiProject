@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GUIAPP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GUIAPP_jar</output-path>
+    <root id="archive" name="GUIAPP_jar.jar">
+      <element id="module-output" name="GUIAPP" />
+      <element id="file-copy" path="$PROJECT_DIR$/GUIAPP.iml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/codebind/App.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/codebind/App.form" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/codebind/App.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/codebind/App$1.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/codebind/xiaozhu.png" />
+    </root>
+  </artifact>
+</component>

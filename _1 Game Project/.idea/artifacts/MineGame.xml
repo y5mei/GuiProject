@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MineGame">
+    <output-path>$PROJECT_DIR$/out/artifacts/MineGame</output-path>
+    <root id="archive" name="saolei.jar">
+      <element id="module-output" name="Computer Science" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.lift/stdlib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.lift/introcs.jar" path-in-jar="/" />
+      <element id="library" level="project" name="introcs" />
+      <element id="file-copy" path="$PROJECT_DIR$/MineGame.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/Minesweeper.class" />
+      <element id="module-source" name="Computer Science" />
+      <element id="file-copy" path="$PROJECT_DIR$/MineGame.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/MakeSound.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/Minesweeper.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/MakeSound.class" />
+    </root>
+  </artifact>
+</component>
