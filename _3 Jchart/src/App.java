@@ -36,6 +36,8 @@ public class App {
      **/
     public static void main(String[] args) {
         JFrame frame = new JFrame();
+        frame.setTitle("Java 第一个 GUI 程序");
+        frame.setSize(400, 200);    //设置窗口显示尺寸
         frame.setContentPane(new App().panel1);
         frame.setDefaultCloseOperation(JFrame.TEXT_CURSOR);
         frame.pack();
