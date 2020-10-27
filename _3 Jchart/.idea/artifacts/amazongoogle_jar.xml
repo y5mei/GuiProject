@@ -18,6 +18,8 @@
       <element id="extracted-dir" path="$PROJECT_DIR$/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/jcommon-1.0.23/lib/junit.jar" path-in-jar="/" />
       <element id="file-copy" path="$PROJECT_DIR$/src/App.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/GOOG.csv" />
+      <element id="file-copy" path="$PROJECT_DIR$/AMZN.csv" />
     </root>
   </artifact>
 </component>
